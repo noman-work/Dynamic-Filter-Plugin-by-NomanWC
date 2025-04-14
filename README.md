@@ -4,6 +4,20 @@
 
 The Dynamic Filter Plugin enables you to create dynamic filters for any custom post type. It allows you to configure the taxonomies you want to use for filtering by creating a dedicated Filter configuration post type. Once the filter is configured, the plugin generates a shortcode that you can insert into any page or post. This shortcode then outputs a dynamic filter form on the front end that modifies archive queries based on the selected filtering criteria.
 
+## Screenshots
+
+**1. Front-End Preview**
+
+![Front-end Filter Form](assets/screenshot-front.png)
+
+**2. All Filters Page**
+
+![All Filters Page](assets/all-filters.png)
+
+**3. Edit Single Filter Page**
+
+![Edit Single Filter Page](assets/admin-edit.png)
+
 ## Installation
 
 1. Upload the plugin file (e.g., `dynamic-filter-plugin.php`) to your `/wp-content/plugins/` directory.
