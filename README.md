@@ -8,15 +8,15 @@ The Dynamic Filter Plugin enables you to create dynamic filters for any custom p
 
 **1. Front-End Preview**
 
-![Front-end Filter Form](assets/screenshot-front.png)
+![Front-end Filter Form](https://raw.githubusercontent.com/noman-work/Dynamic-Filter-Plugin-by-NomanWC/refs/heads/main/img/screenshot-front.png)
 
 **2. All Filters Page**
 
-![All Filters Page](assets/all-filters.png)
+![All Filters Page](https://raw.githubusercontent.com/noman-work/Dynamic-Filter-Plugin-by-NomanWC/refs/heads/main/img/all-filter.png)
 
 **3. Edit Single Filter Page**
 
-![Edit Single Filter Page](assets/admin-edit.png)
+![Edit Single Filter Page](https://raw.githubusercontent.com/noman-work/Dynamic-Filter-Plugin-by-NomanWC/refs/heads/main/img/admin-edit.png)
 
 ## Installation
 
